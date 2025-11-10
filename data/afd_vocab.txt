@@ -1,0 +1,7 @@
+# Definicion de vocabulario para el modo Automatas (AFD)
+# Formato: categoria=palabra1,palabra2,...
+organico=cascara,comida,restos,servilleta,hueso
+reciclable=botella,lata,plastico,metal,brik
+papel_carton=papel,carton,cuaderno,revista
+vidrio=vidrio,frasco,botella-vidrio
+peligrosos=pila,bateria,aceite,pintura,aerosol
